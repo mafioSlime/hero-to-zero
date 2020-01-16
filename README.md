@@ -20,7 +20,9 @@ Learning Resources:
 
 1. HTML / CSS 
 
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc Net Ninja
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
+Net Ninja
+
 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG
 Net Ninja - Flex Box
