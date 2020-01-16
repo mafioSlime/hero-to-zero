@@ -57,10 +57,13 @@ Net Ninja
 
 https://www.udemy.com/course/understand-javascript/
 Anthony Alicea
+
 5. React JS
+
 https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 Maximillian
 
 6. Node JS
+
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
 Net Ninja
