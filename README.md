@@ -69,3 +69,9 @@ Maximillian
 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
 Net Ninja
+
+
+## Projects that I build
+
+1. HTML/CSS 
+* https://github.com/mafioSlime/hero-banner
