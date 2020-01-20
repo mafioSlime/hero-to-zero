@@ -75,3 +75,11 @@ Net Ninja
 
 1. HTML/CSS 
 * https://github.com/mafioSlime/hero-banner
+
+
+## New Resources:
+
+https://tylermcginnis.com/ - JS, React JS, Redux
+
+I have come across with Tyler when I was doing my research about React JS. His contents appear promising and I might give it a shot. 
+
