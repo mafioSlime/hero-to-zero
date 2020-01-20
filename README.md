@@ -74,7 +74,8 @@ Net Ninja
 ## Projects that I build
 
 1. HTML/CSS 
-* https://github.com/mafioSlime/hero-banner
+* https://github.com/mafioSlime/hero-banner (Landing Page)
+* https://github.com/mafioSlime/css-grid-template (CSS Grid Template)
 
 
 ## New Resources:
