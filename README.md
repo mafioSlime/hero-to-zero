@@ -76,6 +76,11 @@ Net Ninja
 1. HTML/CSS 
 * https://github.com/mafioSlime/hero-banner (Landing Page)
 * https://github.com/mafioSlime/css-grid-template (CSS Grid Template)
+* https://github.com/mafioSlime/photography-proj (Photography Website Project)
+* https://github.com/mafioSlime/flex (Flex grow, flex shrink, flex basis)
+* https://github.com/mafioSlime/wbdv-assignments/tree/master/cpnt260a1 (Flex Box Landing Page)
+
+
 
 
 ## New Resources:
