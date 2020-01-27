@@ -80,6 +80,7 @@ Net Ninja
 * https://github.com/mafioSlime/flex (Flex grow, flex shrink, flex basis)
 * https://github.com/mafioSlime/wbdv-assignments/tree/master/cpnt260a1 (Flex Box Landing Page)
 * https://github.com/mafioSlime/svg-animation (SVG Animations)
+* https://github.com/mafioSlime/oddysea-registration (Registration Form)
 
 
 
