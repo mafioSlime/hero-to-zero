@@ -82,7 +82,9 @@ Net Ninja
 * https://github.com/mafioSlime/svg-animation (SVG Animations)
 * https://github.com/mafioSlime/oddysea-registration (Registration Form)
 
+## With JS
 
+* https://github.com/mafioSlime/food-hub
 
 
 ## New Resources:
