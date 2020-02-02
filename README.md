@@ -85,6 +85,7 @@ Net Ninja
 ## With JS
 
 * https://github.com/mafioSlime/food-hub
+* https://github.com/mafioSlime/exchange-rate (API)
 
 
 ## New Resources:
