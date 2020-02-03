@@ -86,6 +86,7 @@ Net Ninja
 
 * https://github.com/mafioSlime/food-hub
 * https://github.com/mafioSlime/exchange-rate (API)
+* https://github.com/mafioSlime/new-year-countdown
 
 
 ## New Resources:
