@@ -88,6 +88,7 @@ Net Ninja
 * https://github.com/mafioSlime/exchange-rate (API)
 * https://github.com/mafioSlime/new-year-countdown
 * https://github.com/mafioSlime/greeting-function (JS Sandbox)
+* https://github.com/mafioSlime/js-homework (dom/loop)
 
 
 ## New Resources:
