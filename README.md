@@ -98,3 +98,11 @@ https://tylermcginnis.com/ - JS, React JS, Redux
 
 I have come across with Tyler when I was doing my research about React JS. His contents appear promising and I might give it a shot. 
 
+
+Feb 07 2019 onwards.... 
+
+* Build three solid projects - I want to focus on quality than quanitity. It is useless if a developer has hundreds of projects but all craps.
+
+* Network as much as possible
+
+
