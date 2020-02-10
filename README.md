@@ -64,6 +64,7 @@ Anthony Alicea
 
 https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 Maximillian
+https://www.youtube.com/watch?v=dGcsHMXbSOA (Dev Ed)
 
 6. Node JS
 
