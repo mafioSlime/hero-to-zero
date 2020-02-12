@@ -91,6 +91,7 @@ Net Ninja
 * https://github.com/mafioSlime/greeting-function (JS Sandbox)
 * https://github.com/mafioSlime/js-homework1 (dom/loop)
 * https://github.com/mafioSlime/js-assignment2 (hamburger menu)
+* https://github.com/mafioSlime/Catch-em-all (Pokedex)
 
 
 ## New Resources:
